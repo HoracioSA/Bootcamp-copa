@@ -1,0 +1,15 @@
+https://github.com/HoracioSA/Bootcamp-copa.git
+*.node_modules
+
+*.expo/
+*.dist/
+mobile/npm-debug.*
+mobile/*.jks
+mobile/*.p8
+mobile/*.p12
+/mobile*.key
+/mobile*.mobileprovision
+/mobile*.orig.*
+web-build/
+# Keep environment variables out of version control
+.env
